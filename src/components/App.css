@@ -1,0 +1,20 @@
+.app.ui.container {
+  width: 500px;
+}
+
+.app h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 50px;
+  margin: 20px 0;
+  text-align: center;
+}
+
+.app .attribution {
+  font-size: 10px;
+  text-align: center;
+  margin: 40px 0 10px;
+}
+
+.app .attribution a {
+  color: black;
+}

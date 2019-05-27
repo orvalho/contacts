@@ -1,0 +1,9 @@
+.selected-contact.ui.card {
+  max-width: 215px;
+  margin: 0 auto !important;
+}
+
+.selected-contact.ui.card .content .header {
+  font-family: 'Amatic SC', cursive;
+  font-size: 35px;
+}
